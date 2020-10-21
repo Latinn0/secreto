@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "front-end-secreto-web",
+			"path": "."
+		},
+		{
+			"name": "includes",
+			"path": "..\\includes"
+		}
+	]
+}
